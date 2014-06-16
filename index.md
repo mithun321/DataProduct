@@ -52,7 +52,7 @@ Normal BMI range is 18.5 to 25. The diagram below shows how should we maintain o
 ---
 
 ## BMI calculation APP 
-To help you determine your BMI and its meaning for you, we have developed an easy to use web application.  Go the [app website](https://chiranjit.shinyapps.io/Calculatte_Your_BMI/) where you will see three input fields, two for your 
+To help you determine your BMI and its meaning for you, we have developed an easy to use web application.  Go the [app website](https://chiranjit.shinyapps.io/Calculate_Your_BMI/) where you will see three input fields, two for your 
 height in feet and inches, and another for your weight in Kgs.  After entering 
 the required information, press the $Calculate$ $your$ $BMI$ button at the bottom. 
 You will get your BMI as well as what does it mean for you. 
